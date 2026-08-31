@@ -44,4 +44,3 @@ Ajuste de Reglas de Detección: Implementar alertas automáticas en Splunk para 
 
 Monitoreo de Persistencia: Ampliar la telemetría de Sysmon para incluir la auditoría de modificación de registros (EventCode 12/13) y creación de tareas programadas.
 
-![SOC Dashboard Overview](screenshots/03_dashboard_soc.png)
